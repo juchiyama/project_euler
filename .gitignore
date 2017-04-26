@@ -1,3 +1,5 @@
 *~*
 *#*
 *.jar
+*.DS_Store
+out
